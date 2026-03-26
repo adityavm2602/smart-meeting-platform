@@ -315,9 +315,9 @@ Built with ❤️ using Python, React, Groq AI, WebSocket and modern full-stack 
 
 ---
 
-## 📄 License
+## 📄 Demo Transcripts
 
-MIT License — Free to use and modify.
+
 
 📄 Demo Transcript 1 (Quick Standup)
 Participants: Aditya, Rahul, Sneha
