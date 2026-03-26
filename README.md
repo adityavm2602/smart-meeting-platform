@@ -318,3 +318,32 @@ Built with ❤️ using Python, React, Groq AI, WebSocket and modern full-stack 
 ## 📄 License
 
 MIT License — Free to use and modify.
+
+📄 Demo Transcript 1 (Quick Standup)
+Participants: Aditya, Rahul, Sneha
+
+Transcript:
+
+Aditya:
+Good morning team, let’s quickly go over updates.
+Rahul:
+Yesterday I worked on improving the summary generation logic. The output is now more structured. Today I’ll focus on extracting action items more accurately.
+Sneha:
+From frontend side, I updated the dashboard UI and added sections for summary and action items. Today I’ll work on improving the layout and handling empty states.
+Aditya:
+Sounds good. Let’s aim to have a stable version ready for demo.
+
+
+
+📄 Demo Transcript 2 (Feature Discussion)
+Participants: Aditya, Amit, Priya
+
+Transcript:
+Aditya:
+We should add a feature to detect key decisions from meetings.
+Amit:
+Yes, we can use LLM prompts to classify decisions and important points separately from the summary.
+Priya:
+From testing side, we should also verify that decisions are correctly identified and not mixed with general discussion.
+Aditya:
+Agreed. Let’s implement a basic version first and improve it later.
